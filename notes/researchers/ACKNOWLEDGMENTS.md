@@ -291,8 +291,8 @@ The bibliography's shortened HMM+22 label does not justify replacing its five au
 | 21 | Børge Jessen; J. Karpf; Anders Thorup |
 | 22 | Børge Jessen; Anders Thorup |
 | 23 | Børge Jessen |
-| 24 | Inbar Klang; Jeroen Kuijper; Cary Malkiewich; David Mehrle; Tobias Wittich |
-| 25 | Inbar Klang; Jeroen Kuijper; Cary Malkiewich; David Mehrle; Tobias Wittich |
+| 24 | Inbar Klang; Josefien Kuijper; Cary Malkiewich; David Mehrle; Thor Wittich |
+| 25 | Inbar Klang; Josefien Kuijper; Cary Malkiewich; David Mehrle; Thor Wittich |
 | 26 | Alexander Kupers; Ezekiel Lemann; Cary Malkiewich; Jeremy Miller; Robin J. Sroka |
 | 27 | Ronnie Lee; R. H. Szczarba |
 | 28 | Xin Li |
