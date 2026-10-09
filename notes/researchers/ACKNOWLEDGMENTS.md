@@ -6,7 +6,7 @@ Checked 2026-10-09.
 
 ## What has actually been checked
 
-This ledger maps every entry in **eleven inspected source bibliographies** to its credited people: **318 bibliography entries in total**, not 168 distinct people. Repeated authors and repeated works remain traceable to their source labels. Names are deduplicated within each row; repeated rows identify different source entries.
+This ledger maps every entry in **thirteen inspected source bibliographies** to its credited people: **382 bibliography entries in total**, not 168 distinct people. Repeated authors and repeated works remain traceable to their source labels. Names are deduplicated within each row; repeated rows identify different source entries.
 
 | Source bibliography | Entries checked | Scope |
 | --- | ---: | --- |
@@ -21,6 +21,8 @@ This ledger maps every entry in **eleven inspected source bibliographies** to it
 | Bohmann–Gerhardt–Krulewski–Petersen–Yang, equivariant Witt complexes, arXiv:2409.05965v2 | 39 | Complete bibliography of this version |
 | Klang–Yeakel, isovariant Blakers–Massey, arXiv:2506.21259 | 22 | Complete bibliography of inspected 2026 version |
 | Beaudry–Hermele–Pflaum–Qi–Spiegel–Stephen, MPS classifying space, arXiv:2501.14241v1 | 37 | Complete bibliography of this version |
+| Kupers–Lemann–Malkiewich–Miller–Sroka, *Scissors automorphism groups I*, arXiv:2408.08081v3 | 38 | Complete bibliography of 2026-09-23 version |
+| Kupers–Lemann–Malkiewich–Miller–Sroka, *Scissors automorphism groups II*, arXiv:2605.00541 | 26 | Complete bibliography of inspected 2026 version |
 
 This does **not** complete the bibliographies of the authors' entire research outputs. Other papers and books in the research inventories have not all been read, and their bibliographies remain pending unless separately documented in the pre-existing [user-guide ledger](../users-guides/ACKNOWLEDGMENTS.md). A discovered title is not a completed reading task.
 
@@ -450,8 +452,91 @@ The paper also explicitly thanks **Kate Ponto and Cary Malkiewich** for discussi
 
 The primary authors are **Agnès Beaudry, Michael Hermele, Markus J. Pflaum, Marvin Qi, Daniel D. Spiegel, and David T. Stephen**. Their acknowledgments also thank **Michael Hopkins, Alexei Kitaev, and Bruno Nachtergaele** for helpful conversations.
 
+
+## 12. Kupers, Lemann, Malkiewich, Miller, and Sroka: *Scissors automorphism groups I*
+
+[Source bibliography](https://arxiv.org/html/2408.08081). The inspected version is v3, revised 2026-09-23, under the title *Scissors automorphism groups I: Homological stability and K-theory*. Thank you to every named person in these thirty-eight entries. Where the source prints only initials, they are retained unless another inspected source in this notebook already supplies an unambiguous public expansion.
+
+| Source key | People credited |
+| --- | --- |
+| Arn81 | P. Arnoux |
+| AG06 | P. Ashwin; A. Goetz |
+| Boh+24 | Anna Marie Bohmann; Teena Gerhardt; Cary Malkiewich; Mona Merling; Inna Zakharevich |
+| BP07 | X. Bressaud; G. Poggiaspalla |
+| Bri04 | M. Brin |
+| CFP96 | J. W. Cannon; W. J. Floyd; W. R. Parry |
+| CAR25 | Noah Cockram; Peter Ashwin; Ana Rodrigues |
+| CL22 | Y. Cornulier; O. Lacourte |
+| Day73 | B. Day |
+| Deh01 | Max Dehn |
+| Dup01 | Johan L. Dupont |
+| DK80 | W. G. Dwyer; D. M. Kan |
+| DK80a | W. G. Dwyer; D. M. Kan |
+| GZ67 | P. Gabriel; M. Zisman |
+| Gra76 | D. Grayson; the title explicitly credits the work as “after Daniel Quillen” |
+| Hal81 | H. Haller |
+| Jes68 | Børge Jessen |
+| Kup+26 | Alexander Kupers; Ezekiel Lemann; Cary Malkiewich; Jeremy Miller; Robin J. Sroka |
+| Kup+26a | Alexander Kupers; Ezekiel Lemann; Cary Malkiewich; Jeremy Miller; Robin J. Sroka |
+| Li25 | Xin Li |
+| Mal24 | Cary Malkiewich |
+| Mas82 | H. Masur |
+| MS75 | D. McDuff; G. Segal |
+| PW23 | M. Palmer; X. Wu |
+| RW13 | Oscar Randal-Williams |
+| RWW17 | Oscar Randal-Williams; Nathalie Wahl |
+| Sah79 | Chih-Han Sah |
+| Sah81 | Chih-Han Sah |
+| Syd65 | Jean-Pierre Sydler |
+| SW19 | Markus Szymik; Nathalie Wahl |
+| Tan23 | Owen Tanner |
+| Vee82 | W. Veech |
+| Vee84 | W. Veech |
+| Wei13 | Charles A. Weibel |
+| Zak12 | Inna Zakharevich |
+| Zak16 | Inna Zakharevich |
+| Zak17 | Inna Zakharevich |
+| Zak17a | Inna Zakharevich |
+
+The primary authors are **Alexander Kupers, Ezekiel Lemann, Cary Malkiewich, Jeremy Miller, and Robin J. Sroka**. The paper also thanks **Thor Wittich** for suggesting the \(K_1\) application and **Danny Calegari** for sharing unpublished geometric insights. Its acknowledgments credit conversations with **Matt Brin, Danny Calegari, Xin Li, John Rached, Daniil Rudenko, and Inna Zakharevich**; **Xin Li, Michael A. Mandell, and Thor Wittich** for helpful conversations with Sroka; the organizers and participants of the June 2023 IU Bloomington summer school on Scissors Congruence, Algebraic K-theory, and Trace Methods; **Oscar Randal-Williams** for identifying an error in an earlier version; and the anonymous referees for detailed feedback.
+
+## 13. Kupers, Lemann, Malkiewich, Miller, and Sroka: *Scissors automorphism groups II*
+
+[Source bibliography](https://arxiv.org/html/2605.00541). Thank you to every named person in these twenty-six entries.
+
+| Source key | People credited |
+| --- | --- |
+| AG06 | P. Ashwin; A. Goetz |
+| BK72 | A. K. Bousfield; D. M. Kan |
+| BP07 | X. Bressaud; G. Poggiaspalla |
+| Bro98 | K. S. Brown |
+| Cal22 | D. Calegari; course source explicitly credited to **Daniil Rudenko** |
+| CZ24 | Jonathan Campbell; Inna Zakharevich |
+| CAR25 | Noah Cockram; Peter Ashwin; Ana Rodrigues |
+| Dup82 | Johan L. Dupont |
+| Dup01 | Johan L. Dupont |
+| Kla+26 | Inbar Klang; Josefien Kuijper; Cary Malkiewich; David Mehrle; Thor Wittich |
+| Kup+24 | Alexander Kupers; Ezekiel Lemann; Cary Malkiewich; Jeremy Miller; Robin J. Sroka |
+| Kup+26 | Alexander Kupers; Ezekiel Lemann; Cary Malkiewich; Jeremy Miller; Robin J. Sroka |
+| LS17 | C. Lee; F. Santos |
+| LS76 | R. Lee; R. H. Szczarba |
+| Li25 | Xin Li |
+| Mal24 | Cary Malkiewich |
+| Mor93 | R. Morelli |
+| Qui73 | Daniel Quillen |
+| Sol69 | Louis Solomon |
+| Sta07 | Richard Stanley |
+| SW19 | Markus Szymik; Nathalie Wahl |
+| Tan23 | Owen Tanner |
+| Wei13 | Charles A. Weibel |
+| Zak12 | Inna Zakharevich |
+| Zak17 | Inna Zakharevich |
+| Zie95 | G. M. Ziegler |
+
+The primary authors are again **Alexander Kupers, Ezekiel Lemann, Cary Malkiewich, Jeremy Miller, and Robin J. Sroka**. They again thank the organizers and participants of the June 2023 IU Bloomington summer school for conversations that helped initiate the project.
+
 ## Remaining coverage, stated plainly
 
-The research inventories contain more works than the eleven bibliographies above. No complete traversal has yet been made of all Malkiewich papers and the textbook draft, all Bohmann papers, every Yeakel research paper and dissertation, or the full Beaudry chromatic and mathematical-physics corpus. Their direct authors and located collaborators are thanked in the notebooks, but individual bibliography-level coverage for those remaining works is not claimed.
+The research inventories contain more works than the thirteen bibliographies above. No complete traversal has yet been made of all Malkiewich papers and the textbook draft, all Bohmann papers, every Yeakel research paper and dissertation, or the full Beaudry chromatic and mathematical-physics corpus. Their direct authors and located collaborators are thanked in the notebooks, but individual bibliography-level coverage for those remaining works is not claimed.
 
 A later extension should add one source-specific table per inspected bibliography, with the exact version and every printed person retained. It should resolve identities using public scholarly evidence, preserve corrections and author-order changes, and avoid merging merely similar names. Credit does not require falsely claiming that the cited work itself has been read.
