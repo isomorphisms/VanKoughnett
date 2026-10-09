@@ -28,8 +28,8 @@ A reading notebook for the recorded **Stable Homotopy Seminar** (2021), organize
 | [Anna Marie Bohmann](anna-marie-bohmann/research-notes.md) | Categorical Mackey functors, graded norms, coTHH, equivariant K-theory, Lawvere theories; plus [equivariant Witt complexes and twisted THH](anna-marie-bohmann/equivariant-witt-and-twisted-thh.md) |
 | [Sarah Yeakel](sarah-yeakel/README.md) | Goodwillie and operad notes, dissertation, correction warnings, plus [isovariant stable homotopy](sarah-yeakel/isovariant-stable-homotopy.md) through the 2026 Blakers–Massey theorem |
 | [Yeakel: additional worked examples](sarah-yeakel/expanded-examples.md) | Stabilizer-preserving maps, cross-effects, injection indexing, cotriple identities, and operadic localization |
-| [Agnès Beaudry](agnes-beaudry/research-notes.md) | Adams calculations, height-two duality, exotic Picard groups, parametrized cohomology; plus [quantum phases and MPS classifying spaces](agnes-beaudry/quantum-phases-and-mps.md) |
-| [Researcher bibliography acknowledgments](researchers/ACKNOWLEDGMENTS.md) | Every entry in thirteen inspected bibliographies: 382 source entries, with named contributors and explicit remaining gaps |
+| [Agnès Beaudry](agnes-beaudry/research-notes.md) | Adams calculations and height-two chromatic work, including [the duality resolution at n=p=2](agnes-beaudry/duality-resolution-n-p-2.md); exotic Picard groups, parametrized cohomology; plus [quantum phases and MPS classifying spaces](agnes-beaudry/quantum-phases-and-mps.md) |
+| [Researcher bibliography acknowledgments](researchers/ACKNOWLEDGMENTS.md) | Every entry in fourteen inspected bibliographies: 393 source entries, with named contributors and explicit remaining gaps |
 | [Enchiridion user's guides](users-guides/README.md) | Annotated catalogue of all 13 guides in volumes 1–3, with primary-paper links and reading routes |
 | [References followed beyond the guides](users-guides/followed-references.md) | Homotopy-colimit and Goodwillie introductions, technical bibliography hops, and historical updates |
 
