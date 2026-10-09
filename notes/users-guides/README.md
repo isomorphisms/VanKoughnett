@@ -98,6 +98,8 @@ A useful organizing picture is a collection of annihilation tests, not a literal
 
 ### 09. Cary Malkiewich — Coassembly and the K-theory of finite groups
 
+[Detailed friendly bridge: spectra → algebraic K-theory → assembly/coassembly → norm](malkiewich-k-theory-bridge.md)
+
 [Guide page](https://mathusersguides.com/enchiridion-vol-1-2015-cary-malkiewich/) · [Guide PDF](https://mathusersguides.com/wp-content/uploads/2015/07/ug1-malkiewich1.pdf) · [Paper](https://arxiv.org/abs/1503.06504)
 
 The paper relates assembly and coassembly to a norm map, with applications involving algebraic K-theory and chromatic localization. The guide supplies interpretations in terms of modules and group actions.
