@@ -6,7 +6,7 @@ Checked 2026-10-09.
 
 ## What has actually been checked
 
-This ledger maps every entry in **thirteen inspected source bibliographies** to its credited people: **382 bibliography entries in total**, not 168 distinct people. Repeated authors and repeated works remain traceable to their source labels. Names are deduplicated within each row; repeated rows identify different source entries.
+This ledger maps every entry in **fourteen inspected source bibliographies** to its credited people: **393 bibliography entries in total**, not 168 distinct people. Repeated authors and repeated works remain traceable to their source labels. Names are deduplicated within each row; repeated rows identify different source entries.
 
 | Source bibliography | Entries checked | Scope |
 | --- | ---: | --- |
@@ -23,6 +23,7 @@ This ledger maps every entry in **thirteen inspected source bibliographies** to 
 | Beaudry–Hermele–Pflaum–Qi–Spiegel–Stephen, MPS classifying space, arXiv:2501.14241v1 | 37 | Complete bibliography of this version |
 | Kupers–Lemann–Malkiewich–Miller–Sroka, *Scissors automorphism groups I*, arXiv:2408.08081v3 | 38 | Complete bibliography of 2026-09-23 version |
 | Kupers–Lemann–Malkiewich–Miller–Sroka, *Scissors automorphism groups II*, arXiv:2605.00541 | 26 | Complete bibliography of inspected 2026 version |
+| Beaudry–Bobkova–Henn, *The duality resolution at n=p=2*, arXiv:2502.03141 | 11 | Complete bibliography of inspected 2026-08-24 text |
 
 This does **not** complete the bibliographies of the authors' entire research outputs. Other papers and books in the research inventories have not all been read, and their bibliographies remain pending unless separately documented in the pre-existing [user-guide ledger](../users-guides/ACKNOWLEDGMENTS.md). A discovered title is not a completed reading task.
 
@@ -535,8 +536,29 @@ The primary authors are **Alexander Kupers, Ezekiel Lemann, Cary Malkiewich, Jer
 
 The primary authors are again **Alexander Kupers, Ezekiel Lemann, Cary Malkiewich, Jeremy Miller, and Robin J. Sroka**. They again thank the organizers and participants of the June 2023 IU Bloomington summer school for conversations that helped initiate the project.
 
+
+## 14. Beaudry, Bobkova, and Henn: *The duality resolution at \(n=p=2\)*
+
+[Source bibliography](https://arxiv.org/html/2502.03141). Thank you to every named person in these eleven entries.
+
+| Source key | People credited |
+| --- | --- |
+| BB20 | Tobias Barthel; Agnès Beaudry; volume editor **Haynes Miller** |
+| BBG+22 | Agnès Beaudry; Irina Bobkova; Paul G. Goerss; Hans-Werner Henn; Viet-Cuong Pham; Vesna Stojanoska |
+| Bea15 | Agnès Beaudry |
+| Bea17a | Agnès Beaudry |
+| Bea17b | Agnès Beaudry |
+| BG18 | Irina Bobkova; Paul G. Goerss |
+| BGH22 | Agnès Beaudry; Paul G. Goerss; Hans-Werner Henn |
+| GHMR05 | Paul G. Goerss; Hans-Werner Henn; Mark E. Mahowald; Charles Rezk |
+| Hen07 | Hans-Werner Henn |
+| Hen19 | Hans-Werner Henn |
+| Wei94 | Charles A. Weibel |
+
+The primary authors are **Agnès Beaudry, Irina Bobkova, and Hans-Werner Henn**. Their acknowledgments thank **Mark Behrens, Paul Goerss, Vesna Stojanoska, and Viet-Cuong Pham** for many conversations related to the work.
+
 ## Remaining coverage, stated plainly
 
-The research inventories contain more works than the thirteen bibliographies above. No complete traversal has yet been made of all Malkiewich papers and the textbook draft, all Bohmann papers, every Yeakel research paper and dissertation, or the full Beaudry chromatic and mathematical-physics corpus. Their direct authors and located collaborators are thanked in the notebooks, but individual bibliography-level coverage for those remaining works is not claimed.
+The research inventories contain more works than the fourteen bibliographies above. No complete traversal has yet been made of all Malkiewich papers and the textbook draft, all Bohmann papers, every Yeakel research paper and dissertation, or the full Beaudry chromatic and mathematical-physics corpus. Their direct authors and located collaborators are thanked in the notebooks, but individual bibliography-level coverage for those remaining works is not claimed.
 
 A later extension should add one source-specific table per inspected bibliography, with the exact version and every printed person retained. It should resolve identities using public scholarly evidence, preserve corrections and author-order changes, and avoid merging merely similar names. Credit does not require falsely claiming that the cited work itself has been read.
