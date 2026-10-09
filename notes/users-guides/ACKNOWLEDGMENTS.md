@@ -122,6 +122,20 @@ The newly read prelim/analyticity material and the checked workshop programs add
 
 The conference schedules also contain additional speakers not yet used substantively in these notes. Merely appearing on a program is not treated as evidence that their mathematics has been read here.
 
+## Malkiewich guide and development-story credits
+
+The detailed reading of Cary Malkiewich's user's guide adds the following bibliography and development-story credits. Names are kept at the level verified from the guide or public bibliographic records.
+
+- **J. F. Adams** — infinite loop spaces.
+- **Ian Hambleton, Laurence R. Taylor, and Bruce Williams** — G-theory of finite nilpotent group rings.
+- **Daniel S. Kahn and Stewart B. Priddy** — transfer and stable homotopy theory.
+- **J. Peter May and Johann Sigurdsson** — parametrized homotopy theory.
+- **Friedhelm Waldhausen** — algebraic K-theory of spaces.
+- **Bruce Williams** — bivariant Riemann–Roch/coassembly context and discussions described in the development story.
+- **John Klein, Daniel Litt, Ralph Cohen, Gunnar Carlsson, Mark Behrens, and Randy McCarthy** — people explicitly credited in Malkiewich's account of how the project developed.
+
+Thank you to each of them. A story-level acknowledgment records the author's stated mathematical interaction; it is not a claim that a separate publication by that person was read here.
+
 ## What is not yet claimed
 
 The bibliography-level pass above covers **two inspected bibliographies**, not every reference list in all thirteen guides and their source papers. Other names already visible in summaries are credited in the relevant note, but an exhaustive deduplicated acknowledgment of the entire citation network remains unfinished. Conference speakers are credited here only when a public program/abstract was actually used in the reading path; unread handwritten scans are not used to infer their content.
