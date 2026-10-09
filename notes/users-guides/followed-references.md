@@ -58,6 +58,16 @@ A related expository lead is the same four authors' [*Arbeitsgemeinschaft: Algeb
 
 Read: guide selections, publication-list entry, and article abstract. The later article studies stochastic motion of cellular cycles and fractional quantization of average current in a low-temperature adiabatic limit. This is a verified related paper, not a silently assumed exact replacement for the guide's provisional manuscript. The author's [2016 thesis](https://digitalcommons.wayne.edu/oa_dissertations/1433) was identified but its full text was not retrieved.
 
+## Friendly bridge: spectra, K-theory, transfer, and norm
+
+**Yeakel's development story / Enchiridion collection → Cary Malkiewich's user's guide.**
+
+[Detailed reading note](malkiewich-k-theory-bridge.md) · [Guide landing page](https://mathusersguides.com/enchiridion-vol-1-2015-cary-malkiewich/) · [Source paper](https://arxiv.org/abs/1503.06504)
+
+All four guide sections were read. Malkiewich builds from a concrete “elements of spectra” picture to perfect modules, algebraic K-theory, group rings, assembly/coassembly, transfer, and the equivariant norm. His development story also shows why an attractive THH/TC route did not automatically prove the K-theory statement and why the eventual finite-set/norm model was cleaner.
+
+For this notebook the most useful connection to Yeakel is structural: both stories discover that permutation data and coherent sums must be retained rather than replaced by an arbitrary ordering. Malkiewich also gives a clean place to keep (K(R)) (algebraic K-theory) separate from (K(n)) (Morava K-theory).
+
 ## Trace-methods branch: from K-theory to THH and TC
 
 **Yeakel's prelim and public talks → Bökstedt's THH construction → Dundas–Goodwillie–McCarthy.**
