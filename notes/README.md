@@ -19,6 +19,16 @@ A reading notebook for the recorded **Stable Homotopy Seminar** (2021), organize
 
 **Provenance:** These are independently written mathematical study notes **based on the identified video description and contemporary written course material**. They are not claims that the recordings have been viewed or transcribed. Numbering of files tracks *topics in this notebook*, not a verified YouTube episode numbering. We can add video URLs, timestamps, diagrams, and corrections when a recording is checked against its own contents.
 
+## Related reading notebooks
+
+| Collection | Contents |
+| --- | --- |
+| [Sarah Yeakel](sarah-yeakel/README.md) | Seven research papers, dissertation, Goodwillie guide, worked examples, correction warnings, and an inventory of publicly listed notes |
+| [Enchiridion user's guides](users-guides/README.md) | Annotated catalogue of all 13 guides in volumes 1–3, with primary-paper links and reading routes |
+| [References followed beyond the guides](users-guides/followed-references.md) | Homotopy-colimit and Goodwillie introductions, technical bibliography hops, and historical updates |
+
+These additions are independent reading notes, not claims about the content of a particular seminar recording. Reading depth, uninspected scans, and other limits are recorded in the [coverage log](users-guides/crawl-log.md); individual and bibliography-level credits appear in [acknowledgments](users-guides/ACKNOWLEDGMENTS.md).
+
 ## Reading conventions
 
 - Spaces are pointed CW complexes or another well-behaved model of pointed spaces.
