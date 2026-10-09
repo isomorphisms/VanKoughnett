@@ -402,6 +402,8 @@ The primary authors are **Anna Marie Bohmann, Teena Gerhardt, Cameron Krulewski,
 
 The primary authors are **Inbar Klang and Sarah Yeakel**. The explicit contributor list in May96 is retained instead of shortening that entry to May alone.
 
+The paper also explicitly thanks **Kate Ponto and Cary Malkiewich** for discussions and support; **Cary Malkiewich and Mona Merling** for a discussion used in a proof; **Kristine Bauer** for suggesting the n-cubical form of the theorem; **Boris Chorny** for an alternative definition of isovariance; and its referee for suggestions.
+
 ## 11. Beaudry, Hermele, Pflaum, Qi, Spiegel, and Stephen: MPS classifying space
 
 [Source bibliography](https://arxiv.org/html/2501.14241v1). Thank you to every named person in these thirty-seven entries. Repeated-author dashes in the source are expanded.
