@@ -6,12 +6,12 @@ Checked 2026-10-09. This collection extends the Paul VanKoughnett study notebook
 
 | Researcher | Notes | Main routes |
 | --- | --- | --- |
-| Cary Malkiewich | [Research notebook](../cary-malkiewich/research-notes.md) | Parametrized spectra, scissors congruence, K-theory, traces, periodic points, coherence, and an expository reading map |
-| Anna Marie Bohmann | [Research notebook](../anna-marie-bohmann/research-notes.md) | Categorical Mackey functors, genuine equivariant spectra, graded norms, coTHH, rational equivariant K-theory, Lawvere theories, and Witt structures |
-| Sarah Yeakel | [Paper inventory and research notes](../sarah-yeakel/research-notes.md); [expanded examples](../sarah-yeakel/expanded-examples.md); [existing collection index](../sarah-yeakel/README.md) | Goodwillie/discrete calculus, corrected multilinearization, operads with homological stability, operadic localization, and isovariant homotopy theory |
-| Agnès Beaudry | [Research notebook](../agnes-beaudry/research-notes.md) | Adams calculations, height-two duality, exotic Picard groups, equivariant parametrized cohomology, and parametrized quantum-state spaces |
+| Cary Malkiewich | [Research notebook](../cary-malkiewich/research-notes.md); [higher scissors congruence](../cary-malkiewich/scissors-congruence-and-automorphisms.md) | Parametrized spectra, Thom models for scissors K-theory, scissors automorphisms, traces, periodic points, coherence, and exposition |
+| Anna Marie Bohmann | [Research notebook](../anna-marie-bohmann/research-notes.md); [equivariant Witt complexes](../anna-marie-bohmann/equivariant-witt-and-twisted-thh.md) | Categorical Mackey functors, genuine equivariant spectra, norms, twisted THH, equivariant Witt complexes, coTHH, K-theory, and Lawvere theories |
+| Sarah Yeakel | [Paper inventory and research notes](../sarah-yeakel/research-notes.md); [isovariant stable-homotopy route](../sarah-yeakel/isovariant-stable-homotopy.md); [expanded examples](../sarah-yeakel/expanded-examples.md); [collection index](../sarah-yeakel/README.md) | Goodwillie calculus, multilinearization, operads with homological stability, operadic localization, isovariant Elmendorf/Whitehead theory, Blakers–Massey, and Freudenthal |
+| Agnès Beaudry | [Research notebook](../agnes-beaudry/research-notes.md); [quantum phases and MPS](../agnes-beaudry/quantum-phases-and-mps.md) | Adams calculations, height-two duality, exotic Picard groups, equivariant parametrized cohomology, quantum-state types, and the MPS classifying space |
 
-[Individual and bibliography-level acknowledgments](ACKNOWLEDGMENTS.md) cover all 168 entries in seven inspected bibliographies, including named contributors other than the main authors. This is a count of source entries, not distinct people or papers personally read.
+[Individual and bibliography-level acknowledgments](ACKNOWLEDGMENTS.md) cover all 318 entries in eleven inspected bibliographies, including named contributors other than the main authors. This is a count of source entries, not distinct people or papers personally read.
 
 ## Direct connections, with primary evidence
 
@@ -36,7 +36,7 @@ These are written exercises and design observations, not a claim that new execut
 
 A paper-level source-status section distinguishes inspected abstracts, inspected selected sections, complete bibliography-name checks, and works located only through an author inventory. Original examples are labelled as such. The notebooks preserve known correction warnings, including Yeakel's cross-effects issue, Malkiewich's transfer-paper warning, and the split of Bohmann–Szymik's earlier combined Lawvere-theory preprint.
 
-The overall request to cover the four researchers' full bodies of work remains open: many inventory entries still need full reading and bibliography traversal. This pass does not label that unfinished work complete. It also does not claim to have watched every linked recording or checked every diagram in the papers.
+The overall request to cover the four researchers' full bodies of work remains open: this continuation adds four focused notebooks and four complete bibliography traversals, but other inventory entries still need full reading and bibliography traversal. This pass does not label that unfinished work complete. It also does not claim to have watched every linked recording or checked every diagram in the papers.
 
 **Kaufmann's associahedron/operad work is intentionally excluded from these four collections.** The requested separate project has not been confidently identified from repository searches, so no guessed destination or replacement repository was created.
 
