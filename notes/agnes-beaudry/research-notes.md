@@ -69,7 +69,7 @@ The useful finite-group input in a duality resolution does not make the entire s
 
 ### Related sequence of work located
 
-The author index connects the algebraic resolution to the dissertation, K(2)-local Moore-spectrum calculations, chromatic splitting, and later topological duality resolutions. A close reading should compare the actual maps and the spectral sequences rather than replacing the whole sequence by the slogan 'resolve using finite groups'. Full theorem-by-theorem notes on this chain remain to be written.
+The author index connects the algebraic resolution to the dissertation, K(2)-local Moore-spectrum calculations, chromatic splitting, and later topological duality resolutions. The 2026-updated paper with **Irina Bobkova and Hans-Werner Henn**, *The duality resolution at n=p=2*, now has a dedicated [focused notebook](duality-resolution-n-p-2.md). It upgrades the older resolution from the norm-one stabilizer subgroup to the Galois-extended norm-one group and explicitly does **not** resolve the entire K(2)-local sphere.
 
 ## 4. Exotic invertible spectra: an algebraic invariant can miss an object
 
