@@ -58,6 +58,26 @@ A related expository lead is the same four authors' [*Arbeitsgemeinschaft: Algeb
 
 Read: guide selections, publication-list entry, and article abstract. The later article studies stochastic motion of cellular cycles and fractional quantization of average current in a low-temperature adiabatic limit. This is a verified related paper, not a silently assumed exact replacement for the guide's provisional manuscript. The author's [2016 thesis](https://digitalcommons.wayne.edu/oa_dissertations/1433) was identified but its full text was not retrieved.
 
+## Trace-methods branch: from K-theory to THH and TC
+
+**Yeakel's prelim and public talks → Bökstedt's THH construction → Dundas–Goodwillie–McCarthy.**
+
+[Yeakel K-theory/trace-methods notebook](../sarah-yeakel/k-theory-and-trace-methods.md) · [Sam Raskin, modern DGM account](https://arxiv.org/abs/1807.06709)
+
+The 2013 prelim explicitly says that the use of finite sets and injections was inspired by Bökstedt's THH construction. Public programs then show a progression through Yeakel's 2015 algebraic K-theory introduction and the three-part 2017 Dundas–McCarthy lectures with Aaron Royer. Raskin gives a modern formulation and a proof organized around Goodwillie calculus.
+
+The conceptual chain is useful but must not be shortened to “K and TC have the same derivative, therefore K=TC.” The theorem concerns relative fibers under connectivity/nilpotence hypotheses and uses substantially more structure.
+
+## Workshop hop: several friendly entries into functor calculus
+
+**2019 Functor Calculus Workshop at Ohio State.**
+
+[Workshop page](https://people.math.osu.edu/osborne.422/functor-calculus-workshop/)
+
+The program places several routes next to one another: Thomas Goodwillie on the origins of the subject, Brenda Johnson on abelian calculus, Michael Ching on Taylor towers and operadic structure, Ayelet Lindenstrauss on the Taylor tower of algebraic K-theory, Duncan Clark on higher excision, Jens Kjaer on periodic homotopy through a K-theory-based Goodwillie spectral sequence, and Sarah Yeakel on chain rules and operads in abelian functor calculus.
+
+For this notebook, that workshop is more useful than treating every bibliography as a flat list: it exposes how algebraic K-theory, chromatic questions, Taylor towers, and operads were being taught as neighboring but distinct uses of calculus.
+
 ## Two bibliography leads that remain unresolved
 
 Yeakel's revised bibliography lists **Kristine Bauer, Brenda Johnson, and Sarah Yeakel**, *Chain rules and operads for abelian functor calculus*, as in preparation, and **Sarah Yeakel**, *A classification of n-excisive functors to spectra*, as a preprint in preparation. Those are statuses in that historical bibliography, not assertions about their status today. No verified later publication record was established in this pass.
