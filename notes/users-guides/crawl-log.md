@@ -17,7 +17,7 @@ Seed: [Sarah Yeakel's research page](https://sites.google.com/view/syeakel/resea
 | Expository references | Dugger's introduction, initial examples, contents and bibliography; Arone–Ching introduction and section 1; Kuhn and Ching metadata/abstracts | Later sections and technical proofs mostly remain to study |
 | Version/status checks | Yeakel's 2018 cross-effects correction; the later telescope-conjecture counterexamples | Not a complete errata or citation audit of all source papers |
 | Bibliography acknowledgments | Corrected Yeakel paper and Dugger primer bibliographies inspected and credited | Other full bibliographies not yet audited |
-| Handwritten conference and preliminary notes | Nine note-file entries inventoried from Yeakel's site in the hub | Scans not read or transcribed; individual scan destinations not validated |
+| Public notes and scans | All nine public Drive destinations resolved; the 2013 prelim and circa-2014 analyticity handout yielded readable text and were read; the 2014/2015/2017/2019 conference trail was independently checked against public programs/abstracts | Most conference files are handwritten scans and remain unread; the MSRI file did not complete retrieval |
 
 ## What the summaries mean
 
@@ -26,6 +26,15 @@ Seed: [Sarah Yeakel's research page](https://sites.google.com/view/syeakel/resea
 Most attempts to inspect the Enchiridion PDF page images did not render. Parsed text supplied the reading notes. Frankland's opening page and Dugger's first-example page were successfully inspected visually. No claim is made to have verified all source diagrams, and no visual reconstruction is included.
 
 Only original Markdown notes and external references were added. No source PDF or handwritten scan was copied into the repository. The seminar's earlier notes remain separate from this reading collection; these additions are not presented as Paul VanKoughnett's words or as content from his recordings.
+
+## Additional historical trail checked
+
+- **2014, Dubrovnik:** Yeakel's conference abstract *Classifying n-excisive functors by generic representations* explicitly connects the proposed modification of Goodwillie's construction to Bökstedt's THH construction.
+- **2015, European Talbot:** the public schedule places Yeakel's introduction to algebraic K-theory immediately before talks on the big theorems, the Dennis trace, and THH/TC/cyclotomic trace.
+- **2017, Indiana University:** the trace-methods summer-school schedule confirms three Dundas–McCarthy lectures jointly by Aaron Royer and Sarah Yeakel.
+- **2019, Ohio State:** the Functor Calculus Workshop abstracts connect Yeakel's abelian chain-rule work with talks on the origins of functor calculus, the Goodwillie Taylor tower of algebraic K-theory, and K-theory-based periodic Goodwillie spectral sequences.
+
+These are summarized in [the K-theory and trace-methods note](../sarah-yeakel/k-theory-and-trace-methods.md).
 
 ## Important distinctions preserved
 
@@ -38,4 +47,4 @@ Only original Markdown notes and external references were added. No source PDF o
 
 ## Remaining reading branches
 
-The nine publicly listed scans, the rest of Yeakel's dissertation, theorem-level readings of the research papers, and the remaining guide/source bibliographies are not finished. References labelled in preparation in the historical bibliography need independent publication checks before being cited as published works. This log records the actual boundary of this pass rather than promising unattended continuation.
+The seven mostly handwritten conference scans, the incompletely retrieved MSRI scan, the rest of Yeakel's dissertation, theorem-level readings of the research papers, and the remaining guide/source bibliographies are not finished. References labelled in preparation in the historical bibliography need independent publication checks before being cited as published works. This log records the actual boundary of this pass rather than promising unattended continuation.
