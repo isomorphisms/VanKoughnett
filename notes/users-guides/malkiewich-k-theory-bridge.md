@@ -189,6 +189,6 @@ This is one of the friendliest bridges in the Enchiridion collection from basic 
 
 ## Credits from the guide
 
-The guide and its story directly invoke or cite work of **J. F. Adams, Ian Hambleton, Laurence R. Taylor, E. Bruce Williams, Daniel S. Kahn, Stewart B. Priddy, Cary Malkiewich, J. Peter May, Johann Sigurdsson, Friedhelm Waldhausen, Bruce Williams, John Klein, Daniel Litt, Ralph Cohen, Gunnar Carlsson, Mark Behrens, and Randy McCarthy**.
+The guide and its story directly invoke or cite work of **J. F. Adams, Ian Hambleton, Laurence R. Taylor, Bruce Williams, Daniel S. Kahn, Stewart B. Priddy, Cary Malkiewich, J. Peter May, Johann Sigurdsson, Friedhelm Waldhausen, Bruce Williams, John Klein, Daniel Litt, Ralph Cohen, Gunnar Carlsson, Mark Behrens, and Randy McCarthy**.
 
 Thank you to all of them. Bibliographic acknowledgment here means the source used or discussed their work; it does not imply that every cited paper has been read in this notebook.
