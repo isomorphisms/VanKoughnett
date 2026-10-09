@@ -24,12 +24,12 @@ A reading notebook for the recorded **Stable Homotopy Seminar** (2021), organize
 | Collection | Contents |
 | --- | --- |
 | [Four-researcher map](researchers/README.md) | Malkiewich, Bohmann, Yeakel, and Beaudry: research connections, worked examples, source-depth distinctions, and reading routes |
-| [Cary Malkiewich](cary-malkiewich/research-notes.md) | Parametrized spectra, scissors congruence, traces, periodic points, K-theory, coherence, and publication leads |
-| [Anna Marie Bohmann](anna-marie-bohmann/research-notes.md) | Categorical Mackey functors, graded norms, coTHH, equivariant K-theory, Lawvere theories, and Witt structures |
-| [Sarah Yeakel](sarah-yeakel/README.md) | Seven research papers, dissertation, Goodwillie guide, worked examples, correction warnings, and an inventory of publicly listed notes |
+| [Cary Malkiewich](cary-malkiewich/research-notes.md) | Parametrized spectra, scissors congruence, traces, periodic points, K-theory, coherence; plus [higher scissors congruence and automorphisms](cary-malkiewich/scissors-congruence-and-automorphisms.md) |
+| [Anna Marie Bohmann](anna-marie-bohmann/research-notes.md) | Categorical Mackey functors, graded norms, coTHH, equivariant K-theory, Lawvere theories; plus [equivariant Witt complexes and twisted THH](anna-marie-bohmann/equivariant-witt-and-twisted-thh.md) |
+| [Sarah Yeakel](sarah-yeakel/README.md) | Goodwillie and operad notes, dissertation, correction warnings, plus [isovariant stable homotopy](sarah-yeakel/isovariant-stable-homotopy.md) through the 2026 Blakers–Massey theorem |
 | [Yeakel: additional worked examples](sarah-yeakel/expanded-examples.md) | Stabilizer-preserving maps, cross-effects, injection indexing, cotriple identities, and operadic localization |
-| [Agnès Beaudry](agnes-beaudry/research-notes.md) | Adams calculations, height-two duality, exotic Picard groups, parametrized cohomology, and quantum-state families |
-| [Researcher bibliography acknowledgments](researchers/ACKNOWLEDGMENTS.md) | Every entry in seven inspected bibliographies: 168 source entries, with named contributors and explicit remaining gaps |
+| [Agnès Beaudry](agnes-beaudry/research-notes.md) | Adams calculations, height-two duality, exotic Picard groups, parametrized cohomology; plus [quantum phases and MPS classifying spaces](agnes-beaudry/quantum-phases-and-mps.md) |
+| [Researcher bibliography acknowledgments](researchers/ACKNOWLEDGMENTS.md) | Every entry in eleven inspected bibliographies: 318 source entries, with named contributors and explicit remaining gaps |
 | [Enchiridion user's guides](users-guides/README.md) | Annotated catalogue of all 13 guides in volumes 1–3, with primary-paper links and reading routes |
 | [References followed beyond the guides](users-guides/followed-references.md) | Homotopy-colimit and Goodwillie introductions, technical bibliography hops, and historical updates |
 
