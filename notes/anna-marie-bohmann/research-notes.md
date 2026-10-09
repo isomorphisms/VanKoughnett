@@ -102,7 +102,7 @@ This is a genuine shared paper, not just a thematic association between the two 
 
 ## 5. Lawvere theories: an important version correction
 
-The author research page still uses the combined title *Assembly and Morita invariance in the algebraic K-theory of Lawvere theories*. The updated [arXiv:2011.11755 record](https://arxiv.org/abs/2011.11755) separates that earlier work: the Morita/Boolean-algebra material has the title *Boolean algebras, Morita invariance, and the algebraic K-theory of Lawvere theories*, while assembly material moved to [arXiv:2112.07003](https://arxiv.org/abs/2112.07003). The former appeared in Mathematical Proceedings of the Cambridge Philosophical Society 175 (2023), 253–270.
+The author research page still uses the combined title *Assembly and Morita invariance in the algebraic K-theory of Lawvere theories*. The updated [arXiv:2011.11755 record](https://arxiv.org/abs/2011.11755) separates that earlier work: the Morita/Boolean-algebra material has the title *Boolean algebras, Morita invariance, and the algebraic K-theory of Lawvere theories*, while assembly material moved to [arxiv:2112.07003](https://arxiv.org/abs/2112.07003). The former appeared in Mathematical Proceedings of the Cambridge Philosophical Society 175 (2023), 253–270.
 
 Both records credit **Anna Marie Bohmann and Markus Szymik**. This pass inspected the version notice, not all arguments of the two resulting papers. Keep the split in the source ledger; do not cite the old combined title as though it were two separate original discoveries.
 
@@ -123,7 +123,7 @@ The following are author-index discovery records and prompts for close reading. 
 | Rational equivariant K-theory | Naive-commutative and genuine-commutative structure papers, with **Christy Hazel, Jocelyne Ishak, Magdalena Kędziorek, Clover May** | Which norms survive the algebraic model, and why are the two notions of commutativity different? |
 | Witt structures | *Equivariant Witt complexes and twisted topological Hochschild homology*, with **Teena Gerhardt, Cameron Krulewski, Sarah Petersen, Lucy Yang** | How do norms and the twisted Hochschild construction organize restriction, Frobenius, and Witt-type data? |
 
-The Witt-complex paper is a newer discovery, beyond the older author-page inventory: [Vanderbilt institutional publication record](https://facultyprofiles.vanderbilt.edu/discovery/fulldisplay/alma991044674863203276/01VAN_INST:ResearchRepository). Its abstract/metadata were located; its full bibliography is not checked here.
+The Witt-complex paper is a newer discovery, beyond the older author-page inventory: [Vanderbilt institutional publication record](https://facultyprofiles.vanderbilt.edu/esploro/outputs/journalArticle/Equivariant-Witt-complexes-and-twisted-topological/991044674863203276?institution=01VAN_INST). Its abstract/metadata were located; its full bibliography is not checked here.
 
 ## 7. A reading route connected to this repository
 
