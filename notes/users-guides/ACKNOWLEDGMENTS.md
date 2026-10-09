@@ -99,9 +99,32 @@ Source inspected: pages 108–109 of [*A primer on homotopy colimits*](https://p
 
 Dugger also explicitly acknowledges **Jesper Grodal, Robert Lipshitz, Don Stanley, Owen Gwilliam, Phil Hirschhorn, and Dan Kan** in his introduction. Thank you to them as well. The aliases and initials above preserve the observed source forms; a later name-normalization pass should verify full spellings and diacritics against authors' own public pages instead of guessing.
 
+## Prelim, K-theory, and trace-methods branch
+
+The newly read prelim/analyticity material and the checked workshop programs add another group of people who should be credited individually. Some also appear above under other sources.
+
+| People | Contribution represented in the new reading path |
+| --- | --- |
+| J. F. Adams | Stable homotopy reference in Yeakel's prelim bibliography |
+| Marcel Bökstedt | THH construction that inspired the finite-sets-and-injections indexing strategy |
+| A. K. Bousfield; D. M. Kan | Homotopy-limit/colimit machinery and spectral-sequence background |
+| Bjørn Ian Dundas; Thomas G. Goodwillie; Randy McCarthy | Local structure of algebraic K-theory and the trace-methods theorem |
+| Paul Goerss; John Jardine | Simplicial homotopy theory reference in the prelim |
+| G. W. Whitehead | Generalized homology reference in the prelim |
+| Eric Peterson | Credited by Yeakel for the spectral-sequence explanation in the prelim |
+| Aaron Royer; Sarah Yeakel | Three-part 2017 Dundas–McCarthy lectures |
+| Gabe Angelini-Knoll; Cary Malkiewich; Valentin Krasontovitsch | 2015 K-theory / Dennis trace / THH-TC reading sequence |
+| Teena Gerhardt; Michael Mandell; Thomas Nikolaus; Lars Hesselholt; Gijs Heuts; Saul Glasman; Nick Rozenblyum | Surrounding 2017 trace-methods lectures |
+| Ayelet Lindenstrauss | Expository work on the Goodwillie Taylor tower of algebraic K-theory |
+| Duncan Clark | Expository higher-excision/Taylor-tower route at the 2019 workshop |
+| Jens Kjaer | K-theory-based periodic Goodwillie spectral-sequence talk |
+| Michael Ching; Brenda Johnson; Kristine Bauer | Operadic, abelian-calculus, and chain-rule branches connected to Yeakel's work |
+
+The conference schedules also contain additional speakers not yet used substantively in these notes. Merely appearing on a program is not treated as evidence that their mathematics has been read here.
+
 ## What is not yet claimed
 
-The bibliography-level pass above covers **two inspected bibliographies**, not every reference list in all thirteen guides and their source papers. Other names already visible in summaries are credited in the relevant note, but an exhaustive deduplicated acknowledgment of the entire citation network remains unfinished. Likewise, conference speakers cannot be reliably credited from unread handwritten scans alone.
+The bibliography-level pass above covers **two inspected bibliographies**, not every reference list in all thirteen guides and their source papers. Other names already visible in summaries are credited in the relevant note, but an exhaustive deduplicated acknowledgment of the entire citation network remains unfinished. Conference speakers are credited here only when a public program/abstract was actually used in the reading path; unread handwritten scans are not used to infer their content.
 
 ## Attribution and copying
 
