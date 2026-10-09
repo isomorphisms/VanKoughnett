@@ -136,9 +136,17 @@ The detailed reading of Cary Malkiewich's user's guide adds the following biblio
 
 Thank you to each of them. A story-level acknowledgment records the author's stated mathematical interaction; it is not a claim that a separate publication by that person was read here.
 
+## Lecturers represented in the directly read handwritten scans
+
+The scan notebook now uses the actual page images rather than filenames alone. Thank you to the lecturers whose material is substantively represented in those handwritten notes, including:
+
+**Michael Ching, Brenda Johnson, Michael Weiss, Thomas Goodwillie, Ayelet Lindenstrauss, John Klein, Javier J. Gutiérrez, Gijs Heuts, Ieke Moerdijk, Pedro Boavida, Philip Hackney, Rune Haugseng, Brice Le Grignou, Marcy Robertson, Kathryn Hess, Bjørn Ian Dundas, Nathalie Wahl, Charles Rezk, Wojciech Chachólski, Nicholas Kuhn, David Ayala, John Francis, Ralph Cohen, Christian Schlichtkrull, Ulrike Tillmann, Randy McCarthy, Emanuele Dotto, Kristen Mazur, Agnès Beaudry, Craig Westerland, David Gepner, Brooke Shipley, Mike Hill, Gunnar Carlsson, Andrew Blumberg, and Mark Behrens.**
+
+The infinity-operad workshop program additionally identifies collaborations used in the notes, including **David Gepner and Joachim Kock** with Rune Haugseng, and the cyclic-operad work of **Philip Hackney, Marcy Robertson, and Donald Yau**. These credits reflect public mathematical authorship/talk attribution, not endorsement of this repository.
+
 ## What is not yet claimed
 
-The bibliography-level pass above covers **two inspected bibliographies**, not every reference list in all thirteen guides and their source papers. Other names already visible in summaries are credited in the relevant note, but an exhaustive deduplicated acknowledgment of the entire citation network remains unfinished. Conference speakers are credited here only when a public program/abstract was actually used in the reading path; unread handwritten scans are not used to infer their content.
+The bibliography-level pass above covers **two inspected bibliographies**, not every reference list in all thirteen guides and their source papers. Other names already visible in summaries are credited in the relevant note, but an exhaustive deduplicated acknowledgment of the entire citation network remains unfinished. Conference speakers are credited when a public program/abstract or the directly inspected handwritten pages were actually used in the reading path.
 
 ## Attribution and copying
 
