@@ -17,7 +17,7 @@ Seed: [Sarah Yeakel's research page](https://sites.google.com/view/syeakel/resea
 | Expository references | Dugger's introduction, initial examples, contents and bibliography; Arone–Ching introduction and section 1; Kuhn and Ching metadata/abstracts | Later sections and technical proofs mostly remain to study |
 | Version/status checks | Yeakel's 2018 cross-effects correction; the later telescope-conjecture counterexamples | Not a complete errata or citation audit of all source papers |
 | Bibliography acknowledgments | Corrected Yeakel paper and Dugger primer bibliographies inspected and credited | Other full bibliographies not yet audited |
-| Public notes and scans | All nine public Drive destinations resolved; the 2013 prelim and circa-2014 analyticity handout yielded readable text and were read; the 2014/2015/2017/2019 conference trail was independently checked against public programs/abstracts | Most conference files are handwritten scans and remain unread; the MSRI file did not complete retrieval |
+| Public notes and scans | All nine public Drive destinations resolved. Ching 2015 (12 pp), Functor Calculus 2019 (17 pp), Infinity-Operads 2017 (36 pp), Dubrovnik 2014 parts 1+2 (38 pp), and Midwest 2013 (17 pp) were rendered and visually read page by page. The MSRI tar archive was downloaded and unpacked; opening sections of Shipley, Hill, Carlsson, Blumberg, and Behrens were read. | The 44-page MSRI student-notes file and later portions of the five named MSRI lecture PDFs are not yet read end to end; handwriting occasionally makes exact symbols ambiguous |
 
 ## What the summaries mean
 
@@ -36,6 +36,12 @@ Only original Markdown notes and external references were added. No source PDF o
 
 These are summarized in [the K-theory and trace-methods note](../sarah-yeakel/k-theory-and-trace-methods.md).
 
+### Direct scan-reading correction
+
+An earlier pass treated empty extracted text as if the handwritten PDFs were unavailable to read. That was wrong. The raw Drive files can be pulled, rendered, and inspected page by page; the scan notebook now records the actual page-image reading in [public-scan-notes.md](../sarah-yeakel/public-scan-notes.md).
+
+The Midwest scan also adds a concrete candidate trail: **Agnès Beaudry's** pages center on Morava (K(n)), (K(2))-local homotopy, chromatic convergence, and Morava (E)-theory. This is evidence for keeping Beaudry in the original identification search, not proof that she is the person remembered.
+
 ## Important distinctions preserved
 
 - The thesis record says *Goodwillie calculus and I*; the author's site labels its link *Goodwillie calculus and injections*. These are not two dissertations.
@@ -47,4 +53,4 @@ These are summarized in [the K-theory and trace-methods note](../sarah-yeakel/k-
 
 ## Remaining reading branches
 
-The seven mostly handwritten conference scans, the incompletely retrieved MSRI scan, the rest of Yeakel's dissertation, theorem-level readings of the research papers, and the remaining guide/source bibliographies are not finished. References labelled in preparation in the historical bibliography need independent publication checks before being cited as published works. This log records the actual boundary of this pass rather than promising unattended continuation.
+The large MSRI student-notes file, later portions of the named MSRI lecture PDFs, the rest of Yeakel's dissertation, theorem-level readings of the research papers, and the remaining guide/source bibliographies are not finished. References labelled in preparation in the historical bibliography need independent publication checks before being cited as published works. This log records the actual boundary of this pass rather than promising unattended continuation.
