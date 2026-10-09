@@ -10,6 +10,8 @@ Checked 2026-10-09. This collection starts from [Sarah Yeakel's research page](h
 | --- | --- |
 | [Research notes](research-notes.md) | All seven papers and the dissertation listed on the author's page; authors, primary links, first-pass summaries, assumptions, and study questions |
 | [Goodwillie calculus and imagery](goodwillie-and-imagery.md) | The four-part guide, finite-difference and injection examples, homotopy gluing, and an ordinary-fiber versus homotopy-fiber check |
+| [Prelim and analyticity](prelim-and-analyticity.md) | Read-through of the 2013 prelim and circa-2014 analyticity handout: \(\mathbb I\)-indexing, Bökstedt/THH inspiration, connectivity, spectral-sequence convergence, and the original bibliography |
+| [K-theory and trace methods](k-theory-and-trace-methods.md) | 2014–2019 reading path through algebraic K-theory, THH/TC, Dundas–Goodwillie–McCarthy, and the K-theory side of functor calculus |
 | [Thirteen user's guides](../users-guides/README.md) | Every guide listed across Enchiridion volumes 1–3, including Thom spectra, equivariant structures, Morava E-theory, K-theory, cellular dynamics, and Bousfield lattices |
 | [References followed beyond the guides](../users-guides/followed-references.md) | Dugger, Kuhn, Ching, Arone–Ching, a telescope-conjecture update, and a repaired Catanzaro publication trail |
 | [Acknowledgments](../users-guides/ACKNOWLEDGMENTS.md) | Individual authors and collaborators, plus authors from two inspected bibliographies |
@@ -23,21 +25,21 @@ The dissertation's institutional title is *Goodwillie calculus and I*; the autho
 
 ## Publicly listed scans and preliminary notes
 
-This is an **inventory from the author's page**, not a transcription of the scans. Access the individual links under “Notes” and “Other notes” on [Yeakel's research page](https://sites.google.com/view/syeakel/research). Their individual destinations and contents have not been validated in this pass.
+The author's page links nine public Drive files. The two typed files below expose readable text and have now been read; the remaining conference scans resolve to PDFs but did not yield usable text in this pass. No handwritten page is treated as read merely because its file was located.
 
 | Listed material | Date as listed | Status here |
 | --- | --- | --- |
-| Functor calculus workshop notes | 2019 | Indexed, not read |
-| Infinity operad workshop notes | 2017 | Indexed, not read |
-| Michael Ching minicourse at UIUC | March 2015 | Indexed, not read |
-| Manifolds, K-Theory, and related topics — part 1 | 2014 | Indexed, not read |
-| Manifolds, K-Theory, and related topics — part 2 | 2014 | Indexed, not read |
-| MSRI Summer Workshop notes | 2013 | Indexed, not read |
-| Midwest notes | Fall 2013 | Indexed, not read |
-| Preliminary-examination notes: calculus and finite sets with injections | Spring 2013 | Indexed, not read |
-| Analyticity and its relation to n-excision | Circa 2014 | Indexed, not read |
+| Functor calculus workshop notes | 2019 | PDF destination verified; handwritten scan not yet read |
+| Infinity operad workshop notes | 2017 | PDF destination verified; handwritten scan not yet read |
+| Michael Ching minicourse at UIUC | March 2015 | PDF destination verified; handwritten scan not yet read |
+| Manifolds, K-Theory, and related topics — part 1 | 2014 | PDF destination verified; handwritten scan not yet read; conference abstract independently checked |
+| Manifolds, K-Theory, and related topics — part 2 | 2014 | PDF destination verified; handwritten scan not yet read |
+| MSRI Summer Workshop notes | 2013 | Public file identified; content retrieval incomplete |
+| Midwest notes | Fall 2013 | PDF destination verified; handwritten scan not yet read |
+| [Preliminary-examination notes](prelim-and-analyticity.md) | Spring 2013 | **Extracted text read**; 24-page note summarized and bibliography recorded |
+| [Analyticity and n-excision](prelim-and-analyticity.md) | Circa 2014 | **Extracted text read**; short handout summarized |
 
-The page also lists an *Intro to K-theory* talk at European Talbot in 2015 and a *Dundas–McCarthy Theorem* presentation with **Aaron Royer** at the 2017 trace-methods summer school. A talk listing is not proof that a recording or a separate set of notes has been retrieved. Those are additional leads, not completed reading entries.
+The K-theory trail is no longer only a list of talk titles. Public programs/abstracts verify Yeakel's 2014 generic-representations talk, her 2015 algebraic K-theory introduction, and her three-part 2017 Dundas–McCarthy presentation with **Aaron Royer**. They are assembled with the surrounding trace-methods material in [K-theory and trace methods](k-theory-and-trace-methods.md).
 
 ## Relation to this repository
 
