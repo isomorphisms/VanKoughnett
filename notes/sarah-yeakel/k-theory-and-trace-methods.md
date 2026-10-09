@@ -103,7 +103,24 @@ Yeakel's 2019 contribution returns to Johnson–McCarthy's abelian calculus. In 
 
 That is a useful second branch from her thesis: one branch went toward isovariant homotopy theory; another continued the chain-rule/operad questions in abelian functor calculus.
 
-## 6. A compact reading route
+## 6. Midwest 2013 scan: Agnès Beaudry is a stronger K-spectrum clue
+
+The actual handwritten Midwest scan is now readable and the section headed **Agnès Beaudry** is substantially closer to the original fuzzy recollection than the generic Goodwillie material.
+
+Her pages discuss:
+
+- Bousfield localization (L_E X);
+- Morava (K)-theory (K(n));
+- chromatic convergence;
+- localized spheres;
+- Morava (E)-theory (E_n);
+- height (2), stabilizer groups, and spectral sequences aimed at (K(2))-local homotopy.
+
+This does **not** establish that Beaudry is the person originally remembered: the scan is from Midwest 2013, and Beaudry was not an Illinois PhD student. But if “K-bar spectrum” was actually a distorted memory of (K(n))-local spectra, this is one of the best concrete leads found so far.
+
+See the page-image summary in [Public handwritten scans](public-scan-notes.md#5-midwest-notes--fall-2013).
+
+## 7. A compact reading route
 
 For someone entering from the VanKoughnett stable-homotopy notes:
 
@@ -117,7 +134,7 @@ For someone entering from the VanKoughnett stable-homotopy notes:
 
 This route explains why K-theory, spectra, THH, operads, and Goodwillie calculus repeatedly occur together without collapsing them into one subject.
 
-## 7. On the original “K-bar spectrum” recollection
+## 8. On the original “K-bar spectrum” recollection
 
 This search has now produced several phrases that could plausibly blur together in memory:
 
